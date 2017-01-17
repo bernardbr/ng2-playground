@@ -1,2 +1,2 @@
 # ng2-playground
-My ng2 Playground
+[[My ng2 Playground]]
